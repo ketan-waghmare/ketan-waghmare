@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan-waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="ketan-waghmare" /> </p>
 
-- 🌱 I’m currently learning **Flutter KMM**
+- 🌱 I’m currently learning **Flutter and MERN stack**
 
 - 📝 I regularly write articles on [https://medium.com/@ketanwaghmare](https://medium.com/@ketanwaghmare)
 
