@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan-waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="ketan-waghmare" /> </p>
 
-- 🌱 I’m currently learning **Flutter and MERN stack**
+- 🌱 I’m currently working on **Java Spring boot and Android Development**
 
 - 📝 I regularly write articles on [https://medium.com/@ketanwaghmare](https://medium.com/@ketanwaghmare)
 
